@@ -1,4 +1,4 @@
-**Run WordPress in an isolated environment built with Docker containers.**
+### Run WordPress in an isolated environment built with Docker containers
 
 Notes:
 * The docker volumes db_data and wordpress_data persists updates made by WordPress to the database, as well as the installed themes and plugins. 
